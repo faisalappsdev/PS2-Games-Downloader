@@ -15,8 +15,19 @@ In this app you can download your favorite PS2 games on your android device. The
   <img src="https://lh3.googleusercontent.com/1uVH9ZKvYf5tCWe1nqu4GBrQXCLJ4JF9hL7tigEt2iD08Iyf-uMM2RKSXklRLCqHg3XC-eA7zr7JOy8aGem1THrK_uySn6TBYwYz=h200-rw" height="500"/>
 </p>
 
+
+
 <p align="start">
   <a href="https://play.google.com/store/apps/details?id=com.atgdev.download.ps2gamesdownloader">
     <img alt="Get it on Google Play" height="60" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/>
   </a>
 </p>
+
+
+# Description
+
+App contains more than 500+ best PS2 Games out of 1500 and more and more games are constantly getting added.
+
+Bring back the most beautiful moments and memories by enjoying old and modern ps2 games through your Android phone
+
+This app gives users the opportunity to download and play PS2 games on android devices with AetherSX2 emulator or play on your PC with PCSX2 Emulator.
