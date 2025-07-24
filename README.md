@@ -16,7 +16,7 @@ In this app you can download your favorite PS2 games on your android device. The
 </p>
 
 <p align="start">
-  <a href="https://play.google.com/store/apps/details?id=your.package.name">
+  <a href="https://play.google.com/store/apps/details?id=com.atgdev.download.ps2gamesdownloader">
     <img alt="Get it on Google Play" height="60" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/>
   </a>
 </p>
